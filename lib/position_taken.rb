@@ -1,1 +1,3 @@
-def position_taken?(array, index)
+def position_taken?(board, index)
+  
+end 
